@@ -14,7 +14,7 @@ The build script automatically detects your platform and creates optimized binar
 
 # Our Discord
 
-If you have any questions, please join our Discord: https://discord.gg/9HNfg2MS4y
+If you have any questions, please join our Discord: [https://discord.gg/9HNfg2MS4y](https://discord.gg/myaQG4dMYs)
 
 # Buy me a coffee
 
